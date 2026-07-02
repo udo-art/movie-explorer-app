@@ -22,4 +22,12 @@ This application serves as a demonstration of full-stack Python development, foc
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/movie-explorer-app.git](https://github.com/YOUR_GITHUB_USERNAME/movie-explorer-app.git)
+   git clone [https://github.com/udo-art/movie-explorer-app.git](https://github.com/udo-art/movie-explorer-app.git)
+
+## 👨‍💻 About the Developer
+I am a 21-year-old Mechatronics Engineering student based in Nigeria with a passion for data-driven applications. I love combining my engineering background with Python to build tools that make data actionable—whether it's predicting nationalities or analyzing movie metrics.
+
+I am currently building projects using Streamlit, Pandas, and Python to bridge the gap between complex data and user-friendly web interfaces. 
+
+
+Check out my other work: https://github.com/udo-art
